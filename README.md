@@ -1,6 +1,34 @@
 # DNN을 활용한 지반침하 위험지역 예측 및 중요변수 파악
 
-
-
-
+![데이터분석공모전 미개봉중고 보고서_1](https://github.com/user-attachments/assets/1772d27a-9a96-4955-b8d1-d88b66441ad8)
+![데이터분석공모전 미개봉중고 보고서_2](https://github.com/user-attachments/assets/9bb05033-70a2-45ae-a6d6-b9648048f4dc)
+![데이터분석공모전 미개봉중고 보고서_3](https://github.com/user-attachments/assets/2231fbf1-fc2e-4201-bf1e-b815e6daeeec)
+![데이터분석공모전 미개봉중고 보고서_4](https://github.com/user-attachments/assets/3a5bbad9-2f9a-4837-aa8d-113b1214bd92)
+![데이터분석공모전 미개봉중고 보고서_5](https://github.com/user-attachments/assets/5eaeae72-e735-4c69-a318-83a418fc53ea)
+![데이터분석공모전 미개봉중고 보고서_6](https://github.com/user-attachments/assets/5f8883f6-9587-40f4-8198-b201c6c8edb0)
+![데이터분석공모전 미개봉중고 보고서_7](https://github.com/user-attachments/assets/ed29c8a9-8a10-4917-b4e2-4f66f02b994b)
+![데이터분석공모전 미개봉중고 보고서_8](https://github.com/user-attachments/assets/f892db9a-13a7-4d38-8514-b83c0333f229)
+![데이터분석공모전 미개봉중고 보고서_9](https://github.com/user-attachments/assets/acf90813-d079-470d-85ca-2df1ae0e8f6a)
+![데이터분석공모전 미개봉중고 보고서_10](https://github.com/user-attachments/assets/ac50427e-8dfb-406f-8e10-41c56a0fe979)
+![데이터분석공모전 미개봉중고 보고서_11](https://github.com/user-attachments/assets/1749b012-72e9-416e-8cc1-8223bbecacdc)
+![데이터분석공모전 미개봉중고 보고서_12](https://github.com/user-attachments/assets/b4ab5d0d-b621-4842-8c2d-ee21974ff21e)
+![데이터분석공모전 미개봉중고 보고서_13](https://github.com/user-attachments/assets/1f8dae34-365a-4ea5-8849-13f9f2fbcea9)
+![데이터분석공모전 미개봉중고 보고서_14](https://github.com/user-attachments/assets/99664db0-071c-48a9-b184-01eee408cd04)
+![데이터분석공모전 미개봉중고 보고서_15](https://github.com/user-attachments/assets/f94df285-d472-45ad-b051-bf76b26157d1)
+![데이터분석공모전 미개봉중고 보고서_16](https://github.com/user-attachments/assets/21dcab8a-cce8-477e-98b1-9071f4b521e6)
+![데이터분석공모전 미개봉중고 보고서_17](https://github.com/user-attachments/assets/c08f64c1-f883-4d70-a40c-f0dd2102c275)
+![데이터분석공모전 미개봉중고 보고서_18](https://github.com/user-attachments/assets/0bdbca2b-6eec-491b-ab47-16c4759965bc)
+![데이터분석공모전 미개봉중고 보고서_19](https://github.com/user-attachments/assets/346da0e5-744a-4b16-a064-1a64c04ee876)
+![데이터분석공모전 미개봉중고 보고서_20](https://github.com/user-attachments/assets/3a07a31b-c594-4a79-a144-1b46c6370d5e)
+![데이터분석공모전 미개봉중고 보고서_21](https://github.com/user-attachments/assets/7e5d9a70-f86c-4ec1-88b0-0e3ea891f3a3)
+![데이터분석공모전 미개봉중고 보고서_22](https://github.com/user-attachments/assets/0b854bbd-2c4a-4fe2-a7ef-bea678aea3a5)
+![데이터분석공모전 미개봉중고 보고서_23](https://github.com/user-attachments/assets/476dcaa1-a4ed-4307-9778-0b01e1b4a11f)
+![데이터분석공모전 미개봉중고 보고서_24](https://github.com/user-attachments/assets/ce1cf45b-6b22-4c30-88aa-ba9a9b3151b1)
+![데이터분석공모전 미개봉중고 보고서_25](https://github.com/user-attachments/assets/942cb5ba-d9ab-4008-abe3-86771efaf7d2)
+![데이터분석공모전 미개봉중고 보고서_26](https://github.com/user-attachments/assets/c5c52f2c-60d0-412a-b013-4a00ed042b54)
+![데이터분석공모전 미개봉중고 보고서_27](https://github.com/user-attachments/assets/aad9449e-4476-48f0-9c68-a086977e45af)
+![데이터분석공모전 미개봉중고 보고서_28](https://github.com/user-attachments/assets/c2b582fe-985c-423b-ba4e-2da26d3f6298)
+![데이터분석공모전 미개봉중고 보고서_29](https://github.com/user-attachments/assets/3e1add19-547b-4ca1-accc-36f9e3c52f0a)
+![데이터분석공모전 미개봉중고 보고서_30](https://github.com/user-attachments/assets/ca7ae70b-255f-4f2b-a29e-8d9c9f77b935)
+![데이터분석공모전 미개봉중고 보고서_31](https://github.com/user-attachments/assets/adfbdc06-bc80-4b7f-b25a-0dc8f2a9c260)
 
